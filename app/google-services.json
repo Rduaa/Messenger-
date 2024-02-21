@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781720538561",
+    "project_id": "messenger-82a7a",
+    "storage_bucket": "messenger-82a7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781720538561:android:7bd4f04d5fa5c2abf1f340",
+        "android_client_info": {
+          "package_name": "com.rdua.messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_-kodOrhdSGpch52X7ys4qDv70k5ef2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
